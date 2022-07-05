@@ -1,0 +1,14 @@
+
+.toolbar{
+    background-color: #4aa3a3;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:flex-start;
+    padding:0 1rem;
+    gap:1rem
+}
+.toolbar i:last-child{
+    margin-left:auto;
+
+}
