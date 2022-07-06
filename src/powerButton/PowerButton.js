@@ -1,7 +1,6 @@
 import './powerButton.css';
 
 const PowerButton = ({name,isPowered,handleClick}) => {
-    console.log(name,isPowered)
     return(
         <div className='d-flex flex-column align-items-center'>
             {name}
