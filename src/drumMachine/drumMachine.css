@@ -1,0 +1,18 @@
+.drum-machine-container{
+    width: 40vw;
+    height: 40vh;
+    border:5px solid orange;
+    background-color: #b3b3b3;
+}
+
+.icon-container{
+    text-align: right;
+    padding: 0.2rem;
+    font-size: 1.2rem;
+}
+
+.drum-pad-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 1rem;
+}
