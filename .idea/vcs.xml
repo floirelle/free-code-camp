@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/drum-machine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/markdown-preview/markdown-preview" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/random-quote-machine" vcs="Git" />
+  </component>
+</project>
